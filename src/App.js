@@ -1,4 +1,4 @@
-import { Slide } from './stories/Slide/Slide';
+import Slide from './stories/Slide/Slide';
 // import { Test } from './stories/Test/Test';
 
 function App() {

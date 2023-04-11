@@ -1,0 +1,11 @@
+.swiper {
+    width: 800px;
+    margin: 20px auto;
+}
+
+.swiper-slide {
+    width: 500px;
+    min-height: 400px;
+    line-height: 400px;
+    text-align: center;
+}

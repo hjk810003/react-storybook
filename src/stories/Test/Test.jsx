@@ -8,13 +8,6 @@ export const Test = ({ title }) => {
 };
 
 Test.propTypes = {
-  /**
-   * Is this the principal call to action on the page?
-   */
-  primary: PropTypes.bool,
-  /**
-   * Test contents
-   */
 	title: PropTypes.string.isRequired,
 };
 
